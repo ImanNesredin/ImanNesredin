@@ -1,4 +1,4 @@
-# Hi there, I'm Iman Nesredin 👋
+# Hey there, I'm Iman 👋
 
 🎓 I'm a Computer Science & Engineering student 
 🌱 Currently exploring:  avaScript, AI 
@@ -26,6 +26,6 @@
 
 ## 📫 Let's Connect
 
-- 📧 D.Nesami77@gmail.com 
+- 📧 [email](D.Nesami77@gmail.com) 
 - 🌐 [Portfolio website](https://imannesredin.github.io/my-portfolio/)
   
